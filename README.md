@@ -6,7 +6,6 @@ Welcome to Virtual Study Cottage, an open-source study streaming platform that a
 - **Open-Source:** We believe in the collaborative spirit of knowledge-sharing. Virtual Study Cottage is built on open-source technology, harnessing the collective expertise of educators, content creators, and learners worldwide.
 - **Free Access:** We are committed to keeping education accessible to all. Virtual Study Cottage is completely free to use, ensuring equal opportunities for students from all walks of life.
 - **Diverse Study Materials:** Explore our vast collection of interactive lessons, live study sessions, explanatory videos, and comprehensive study guides, covering a wide range of academic subjects.
-- **Convenient Learning:** Access our platform from any device, anytime, and anywhere. Study at your own pace, dive into specific subjects, and connect with a vibrant community of learners.
 - **Collaborative Learning:** Engage in discussions, ask questions, and share insights with fellow learners to enhance your understanding and broaden your perspectives.
 
 ## Contributing
