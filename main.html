@@ -1,21 +1,12 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <title>摄像头调用1</title>
-</head>
-
-<body>
-    <!-- 視訊串流顯示位置 -->
-    <video id="videoElement" class="videoElement" autoplay muted playsinline></video>
-
-    <!-- 繪製截圖 -->
-    <div id="imageContainer"></div>
-
-    <!-- 切換鏡頭按鈕 -->
-    <div>
-        <button onclick="switchCamera()">切換鏡頭</button>
-    </div>
-</body>
-</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Camera Selection Example</title>
+  </head>
+  <body>
+    <video id="video" width="640" height="480" autoplay></video>
+    <button id="button">Capture</button>
+    <select id="select">
+      <option value="">Any</option>
+    </select>
+    <script src="camera.js"></script>
